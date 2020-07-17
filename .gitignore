@@ -1,2 +1,4 @@
 test_faces/*
 training_faces/*
+x_train.dat
+y_train.dat
